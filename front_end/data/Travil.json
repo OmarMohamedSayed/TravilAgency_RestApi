@@ -1,0 +1,26 @@
+[
+  {
+    "name": "mount",
+    "alt": "mount",
+    "image": "./images/travil-mount.jpg",
+    "button": "view Destination"
+  },
+  {
+    "name": "egypt",
+    "alt": "egypt",
+    "image": "./images/travil-egypt.jpg",
+    "button": "view Destination"
+  },
+  {
+    "name": "beach",
+    "alt": "beach",
+    "image": "./images/travil-beach.jpg",
+    "button": "view Destination"
+  },
+  {
+    "name": "sea",
+    "alt": "sea",
+    "image": "./images/travil-sea.jpg",
+    "button": "view Destination"
+  }
+]
